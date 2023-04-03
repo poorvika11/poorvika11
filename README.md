@@ -1,7 +1,7 @@
 ### *__Hi there__* 👋
 
 ## 💫 About Me:
-I am Computer Science undergraduate who loves to make confessions from data. I am a python developer. I used to analyse data using different BigData technologies available such as Hadoop, Apache Spark. Using different algorithms of machiine learning and different tools like Tableau for Data Visualizations.
+CSIT undergraduate who loves to make confessions from data. Also pursuing B.Sc. from IIT Madras in Data Science and Programming. I love to code in Python. I used to analyse data using different BigData technologies available such as Hadoop, Apache Spark. Using different algorithms of machiine learning and different tools like Tableau for Data Visualizations.
 ###### On-hand experience: Data Analysis 
 ###### Part-time: Technical Writer 
 ###### Working: Machine Learning Projects
