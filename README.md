@@ -30,3 +30,4 @@ CSIT undergraduate who loves to make confessions from data. Also pursuing B.Sc. 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![](https://visitcount.itsvg.in/api?id=poorvika11)](https://visitcount.itsvg.in)
