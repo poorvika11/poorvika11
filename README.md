@@ -2,10 +2,14 @@
 
 # 💫 About Me:
 I am Computer Science undergraduate who loves to make confessions from data. I am a python developer. I used to analyse data using different BigData technologies available such as Hadoop, Apache Spark. Using different algorithms of machiine learning and different tools like Tableau for Data Visualizations.
-## Part time-Technical Content Writer
-## Learning about- 6th gen Aircraft Technology
-## Working on- Machine learning projects 
-## On-hand experience- Data Analytics and Visualization
+# Part time-  
+Technical Content Writer
+# Learning about- 
+6th gen Aircraft Technology
+# Working on- 
+Machine learning projects 
+# On-hand experience- 
+Data Analytics and Visualization
 
 
 ## 🌐 Socials:
@@ -18,8 +22,7 @@ I am Computer Science undergraduate who loves to make confessions from data. I a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=poorvika11&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=poorvika11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorvika11)](https://github.com/poorvika11/github-readme-stats)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
