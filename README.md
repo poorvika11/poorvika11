@@ -1,4 +1,4 @@
-### __*Hi there__* 👋
+### *__Hi there__* 👋
 
 ## 💫 About Me:
 I am Computer Science undergraduate who loves to make confessions from data. I am a python developer. I used to analyse data using different BigData technologies available such as Hadoop, Apache Spark. Using different algorithms of machiine learning and different tools like Tableau for Data Visualizations.
