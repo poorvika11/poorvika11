@@ -2,14 +2,10 @@
 
 # 💫 About Me:
 I am Computer Science undergraduate who loves to make confessions from data. I am a python developer. I used to analyse data using different BigData technologies available such as Hadoop, Apache Spark. Using different algorithms of machiine learning and different tools like Tableau for Data Visualizations.
-# Part time-  
-Technical Content Writer
-# Learning about- 
-6th gen Aircraft Technology
-# Working on- 
-Machine learning projects 
-# On-hand experience- 
-Data Analytics and Visualization
+!Part time-Technical Content Writer
+!Learning about-6th gen Aircraft Technology
+!Working on-Machine learning projects 
+!On-hand experience-Data Analytics and Visualization
 
 
 ## 🌐 Socials:
