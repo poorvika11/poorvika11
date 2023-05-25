@@ -23,9 +23,9 @@ CSIT undergraduate who loves to make confessions from data. Also pursuing B.Sc. 
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=poorvika11&theme=tokyonight&hide_border=false&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=poorvika11&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=poorvika11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=poorvika11&theme=tokyonight&hide_border=false&count_private=true&show_icons=true)<br/>
+![](https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=poorvika11&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=poorvika11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
