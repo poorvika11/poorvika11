@@ -2,10 +2,9 @@
 
 ## 💫 About Me:
 CSIT undergraduate who loves to make confessions from data. Also pursuing B.Sc. from IIT Madras in Data Science and Programming. Do coding in Python. I used to analyse data using different BigData technologies available such as Hadoop, Apache Spark. Using different algorithms of machiine learning and different tools like Tableau for Data Visualizations.
-###### On-hand experience: Data Analysis and Visualization 
+###### On-hand experience: Machine Learning
 ###### Part-time: Technical Content Writer 
-###### Working: Data Associate at Numerator
-###### Learning: Aircraft Technology 
+###### Learning: Gen AI
 
 
 ### 🌐 Socials:
