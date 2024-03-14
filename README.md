@@ -13,7 +13,6 @@ CSIT undergraduate who loves to make confessions from data. Also pursuing B.Sc. 
 ### Code_Connect:
 <p align="left">
 <a href="https://www.leetcode.com/poorvika_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="poorvika_11" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@poorvika11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@poorvika11" height="30" width="40" /></a>
 </p>
 
 
